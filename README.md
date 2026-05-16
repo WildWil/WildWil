@@ -16,7 +16,7 @@
 
 ### What I do
 
-I write code, build and deploy websites, and manage servers. I keep things simple, fast, and reliable — no bloat, no unnecessary complexity.
+I write code, build and deploy websites, and manage servers. I keep things simple, fast, and reliable, no unnecessary complexity.
 
 ---
 
