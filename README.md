@@ -50,8 +50,7 @@ I write code, build and deploy websites, and manage servers. I keep things simpl
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=WildWil&theme=transparent&hide_border=true&background=0D1117&ring=2563EB&fire=F97316&currStreakLabel=2563EB&sideLabels=ffffff&dates=6B7280&sideNums=ffffff&currStreakNum=ffffff&stroke=2563EB20" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=WildWil&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=ffffff&rank_icon=github" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=WildWil&theme=transparent&hide_border=true&background=0D1117&ring=2563EB&fire=F97316&currStreakLabel=2563EB&sideLabels=ffffff&dates=6B7280&sideNums=ffffff&currStreakNum=ffffff&stroke=2563EB20" width="70%"/>
 
 </div>
 
